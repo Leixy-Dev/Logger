@@ -1,6 +1,6 @@
 {
   "name": "@leixydev/logger",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "A logger with many features",
   "main": "build/index.js",
   "types": "build/index.d.ts",
